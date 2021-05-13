@@ -21,3 +21,9 @@ It can know witch the input News is for witch classification like Art, Economy, 
   After Pre-process
   
   ![alt text](https://raw.githubusercontent.com/ahoucbvtw/NewsClassification-Chinese/main/Picture/888786.jpg "After Pre-process")
+  
+  
+
+| 計算機(ComputerScience) | 環境(Environment) | 醫藥(Medicine) | 藝術(Art) | 軍事(Military) | 體育(Sport) | 經濟(Economy) | 教育(Education) | 政治(Politics) | 交通(Traffic) | |
+|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
