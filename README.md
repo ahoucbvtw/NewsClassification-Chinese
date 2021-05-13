@@ -28,7 +28,7 @@ It can know witch the input News is for witch classification like Art, Economy, 
   *Testing Data should not do fit, because of Training Data was done. The new label can be ignore.*
   
 ## Train & Verification
-  I used **Naive Bayes classifier** to train my news, and as the test data verification, the accuracy can be up to **98%**.
+  I used **Naive Bayes classifier** to train my news, and as the test data verification, the accuracy can be up to **96%**.
   
   Here is the **Confusion Matrix** below.
   
