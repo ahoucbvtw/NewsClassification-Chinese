@@ -4,7 +4,7 @@ This is for Chinese News Classify program.
 It can know witch the input News is for witch classification like Art, Economy, Military, Sport etc...
 
 ## Data Pre-process
-- Load all the data and change the answer text to number.
+Load all the data and change the answer text to number.
 
 | 計算機(ComputerScience) | 環境(Environment) | 醫藥(Medicine) | 藝術(Art) | 軍事(Military) | 體育(Sport) | 經濟(Economy) | 教育(Education) | 政治(Politics) | 交通(Traffic) | |
 |-|-|-|-|-|-|-|-|-|-|
