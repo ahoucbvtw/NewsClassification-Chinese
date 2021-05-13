@@ -27,14 +27,14 @@ It can know witch the input News is for witch classification like Art, Economy, 
   
   *Testing Data should not do fit, because of Training Data was done. The new label can be ignore.*
   
-  ## Train & Verification
+## Train & Verification
   I used **Naive Bayes classifier** to train my news, and as the test data verification, the accuracy can be up to **98%**.
   
   Here is the **Confusion Matrix** below.
   
   ![alt text](https://raw.githubusercontent.com/ahoucbvtw/NewsClassification-Chinese/main/Picture/Confusion%20Matrix.jpg "Confusion Matrix")
   
-  ## Demo
+## Demo
   I find 2021/05/13 Taiwan's two News to demo this classification.
   
   News Link：[比特幣不能買特斯拉了！馬斯克：怕化石燃料挖礦迅增](https://udn.com/news/story/6811/5453859)
