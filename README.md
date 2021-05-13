@@ -64,7 +64,7 @@ It can know witch the input News is for witch classification like Art, Economy, 
 預測結果此文章類型為『經濟』最高！！
  ```
  
-News Link：[# 本土新增13例 獅子會再增9例 多與出入萬華地區相關](https://health.udn.com/health/story/120950/5454912)
+News Link：[本土新增13例 獅子會再增9例 多與出入萬華地區相關](https://health.udn.com/health/story/120950/5454912)
 
  ```
 輸入新聞內容:
