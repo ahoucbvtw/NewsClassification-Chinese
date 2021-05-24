@@ -3,6 +3,8 @@ This is for Chinese News Classify program.
 
 It can know witch the input News is for witch classification like Art, Economy, Military, Sport etc...
 
+![alt text](https://raw.githubusercontent.com/ahoucbvtw/NewsClassification-Chinese/main/Picture/news.png "News?")
+
 ## Data Pre-process
 - Load all the data and change the answer text to number.
 
